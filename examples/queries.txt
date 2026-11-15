@@ -1,0 +1,3 @@
+# One query per line. Blank lines and comments are ignored.
+battery recycling process
+lithium battery recycling plant

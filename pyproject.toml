@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flashdata-youtube-search-api"
+version = "0.1.0"
+description = "YouTube Search API toolkit for Python: filtered searches, multi-query discovery and resumable CSV/JSONL exports"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{name = "FlashData", email = "support@flashdata.dev"}]
+dependencies = ["flashdata>=1.2.0,<2"]
+keywords = ["youtube-search-api", "youtube-search", "python", "video-search", "video-dataset", "csv"]
+classifiers = ["Programming Language :: Python :: 3", "Programming Language :: Python :: 3 :: Only", "Topic :: Multimedia :: Video"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.12,<1", "build>=1,<2", "twine>=6,<7"]
+
+[project.scripts]
+flashdata-search = "flashdata_search.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/flashdatadev/youtube-search-api"
+Documentation = "https://flashdata.dev/docs/sources/youtube_search"
+Issues = "https://github.com/flashdatadev/youtube-search-api/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+flashdata_search = ["recorded/*.json", "py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

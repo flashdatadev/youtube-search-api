@@ -1,0 +1,179 @@
+{
+  "query": "battery recycling process",
+  "retrieved_at": "2026-11-15T18:38:13.842Z",
+  "provenance": "Captured from the live FlashData public search demo. All 20 results retained; only videoId, title, channel, duration, viewCount and uploadDate fields kept.",
+  "page": "https://flashdata.dev/products/youtube-data",
+  "response": {
+    "source": "youtube_search",
+    "status": "done",
+    "created_at": "2026-11-15T18:38:13.842Z",
+    "results": [
+      {
+        "results": [
+          {
+            "videoId": "s2xrarUWVRQ",
+            "title": "What *Really* happens to used Electric Car Batteries? - (you might be surprised)",
+            "channel": "JerryRigEverything",
+            "duration": 424,
+            "viewCount": 5679251,
+            "uploadDate": null
+          },
+          {
+            "videoId": "RW0itbw_ALI",
+            "title": "Recycling Batteries",
+            "channel": "mbmmllc",
+            "duration": 193,
+            "viewCount": 91440,
+            "uploadDate": null
+          },
+          {
+            "videoId": "dyDoOcBMAHw",
+            "title": "Why It's So Hard To Recycle Electric-Car Batteries | World Wide Waste",
+            "channel": "Business Insider India",
+            "duration": 376,
+            "viewCount": 880172,
+            "uploadDate": null
+          },
+          {
+            "videoId": "-jpQFKBqUOQ",
+            "title": "Battery Recycling Has Been an Epic Failure - What Happened?",
+            "channel": "Two Bit da Vinci",
+            "duration": 1273,
+            "viewCount": 402553,
+            "uploadDate": null
+          },
+          {
+            "videoId": "aH_HKeS1Ed4",
+            "title": "How It's Made, Recycling Car Batteries.",
+            "channel": "Moe Sal",
+            "duration": 297,
+            "viewCount": 248689,
+            "uploadDate": null
+          },
+          {
+            "videoId": "oJj5iIwF8p4",
+            "title": "Lead Battery Recycling",
+            "channel": "HowStuffWorks",
+            "duration": 181,
+            "viewCount": 390538,
+            "uploadDate": null
+          },
+          {
+            "videoId": "cKvcAOHeoTs",
+            "title": "There's an easier way to recycle your dead batteries. Here’s how. | The Business | ABC News",
+            "channel": "ABC News (Australia)",
+            "duration": 195,
+            "viewCount": 48261,
+            "uploadDate": null
+          },
+          {
+            "videoId": "i_v-IzxxWl8",
+            "title": "Recycling Lithium batteries in 15 minutes. How do they do that?",
+            "channel": "Just Have a Think",
+            "duration": 759,
+            "viewCount": 105894,
+            "uploadDate": null
+          },
+          {
+            "videoId": "d8kiIL0WnUA",
+            "title": "Why Is Your Lithium-Ion Battery Recycling Business Not Profitable?",
+            "channel": "Henan Recycle Env Protection Equipment Co., Ltd",
+            "duration": 97,
+            "viewCount": 3813,
+            "uploadDate": null
+          },
+          {
+            "videoId": "OjoEwAN4uiA",
+            "title": "7-Minute Lithium Ion Battery Recycling Process Video for Beginners",
+            "channel": "Suny Group",
+            "duration": 422,
+            "viewCount": 121405,
+            "uploadDate": null
+          },
+          {
+            "videoId": "eO-X8Gw2nXY",
+            "title": "Lead Battery Recycling Process",
+            "channel": "Battery Council International - BCI",
+            "duration": 359,
+            "viewCount": 138679,
+            "uploadDate": null
+          },
+          {
+            "videoId": "QCld0pTxYx0",
+            "title": "How to Recycle Lead Acid Batteries? Full Automatic Dismantling Line",
+            "channel": "Suny Group",
+            "duration": 66,
+            "viewCount": 8776,
+            "uploadDate": null
+          },
+          {
+            "videoId": "Qi8Y2lF7Luw",
+            "title": "Volkswagen Electric Car Battery Recycling Plant",
+            "channel": "YOUCAR",
+            "duration": 483,
+            "viewCount": 477064,
+            "uploadDate": null
+          },
+          {
+            "videoId": "Pxv_qmXCDPs",
+            "title": "How To Get Lead Out Of A Car Battery - Complete Process",
+            "channel": "Jake Phelps",
+            "duration": 263,
+            "viewCount": 211953,
+            "uploadDate": null
+          },
+          {
+            "videoId": "tvkq6dBod3o",
+            "title": "Process OF Recycling Old Lead Acid Batteries And Manufacturing Brand New Battery",
+            "channel": "Manufacturing Videos",
+            "duration": 1046,
+            "viewCount": 83087,
+            "uploadDate": null
+          },
+          {
+            "videoId": "gWnQUayuzDE",
+            "title": "EV Lithium Battery Recycling Explained - EV Batteries - EV Kurradu",
+            "channel": "EV Kurradu",
+            "duration": 799,
+            "viewCount": 12005,
+            "uploadDate": null
+          },
+          {
+            "videoId": "tMvbg4XvM7Y",
+            "title": "Recycling Lithium-Ion Battery: How Does It Work?",
+            "channel": "Engineering with Rosie",
+            "duration": 918,
+            "viewCount": 57622,
+            "uploadDate": null
+          },
+          {
+            "videoId": "ff0VV7sQdZE",
+            "title": "Incredible recycling process | old batteries converted into high quality wire ",
+            "channel": "Amazing Discoveries 7.0",
+            "duration": 927,
+            "viewCount": 1296107,
+            "uploadDate": null
+          },
+          {
+            "videoId": "ZGvKk5twWRM",
+            "title": "Millions of Batteries Every Day! How Are They Turned into Treasures?",
+            "channel": "Factory Secrets: How It's Made",
+            "duration": 1728,
+            "viewCount": 575009,
+            "uploadDate": null
+          },
+          {
+            "videoId": "Bhs6v7_Buvw",
+            "title": "How can we recycle Lithium ion batteries?",
+            "channel": "Climate Club",
+            "duration": 408,
+            "viewCount": 9457,
+            "uploadDate": null
+          }
+        ],
+        "totalResults": 20,
+        "query": "battery recycling process"
+      }
+    ]
+  }
+}

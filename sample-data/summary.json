@@ -1,0 +1,15 @@
+{
+  "unique_videos": 20,
+  "completed_queries": 1,
+  "searches": [
+    {
+      "query": "battery recycling process",
+      "source": "youtube_search",
+      "retrieved_at": "2026-11-15T18:38:13.842Z",
+      "returned_items": 20,
+      "video_items": 20,
+      "skipped_items": 0,
+      "usage": null
+    }
+  ]
+}
